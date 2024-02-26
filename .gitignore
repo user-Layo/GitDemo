@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#defined by layo, and for test to show how to untrack a file.
+*.layo
+
 # User-specific files
 *.rsuser
 *.suo
