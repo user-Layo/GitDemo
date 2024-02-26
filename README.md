@@ -1,5 +1,9 @@
 # GitDemo App
-This a sample repos about git course. There is some addition.
+<<<<<<< HEAD
+This a sample repos about git course.
+=======
+This a sample app about git course.
+>>>>>>> main
 
 ## Roadmap
  * Add new features
