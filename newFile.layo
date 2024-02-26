@@ -1,3 +1,0 @@
-This is the test file that show how to untrack a file.
-
-After updating the .ignore file, I write this line, does the git not track the file anymore?
